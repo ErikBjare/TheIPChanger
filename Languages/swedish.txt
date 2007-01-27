@@ -1,0 +1,20 @@
+Tibia hittades inte
+För långt domännamn
+Okänd klient version
+Exportera lista
+TheIPChanger är redan igång
+Servern %ip är online på port %port
+Host
+Port
+Byt
+Status
+Lägg till
+Tag bort
+Exportera
+Minimera till systemfältet
+Fel
+Filen hittades inte
+Välj språk...
+Stäng
+Servern %ip är inte online på port %port
+Om...

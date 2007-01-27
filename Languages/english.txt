@@ -1,0 +1,20 @@
+Tibia not found
+Hostname to long
+Unknown client version
+Export list
+TheIPChanger is already running
+Server %ip is currently online at port %port
+Host
+Port
+Change
+Check
+Add
+Delete
+Export
+Minimize to tray
+Error
+File not found
+Choose language
+Close
+Server %ip is currently not online at port %port
+About
